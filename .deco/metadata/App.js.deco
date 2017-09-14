@@ -1,0 +1,51 @@
+{
+	"liveValues": [
+		{
+			"range": {
+				"from": {
+					"line": 14,
+					"ch": 20
+				},
+				"to": {
+					"line": 14,
+					"ch": 26
+				}
+			},
+			"editWith": "inputField",
+			"type": "string",
+			"name": "StorageKey",
+			"group": "VALUE STORE"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 15,
+					"ch": 33
+				},
+				"to": {
+					"line": 15,
+					"ch": 50
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "BackgroundColor",
+			"group": "VALUE STORE"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 17,
+					"ch": 19
+				},
+				"to": {
+					"line": 17,
+					"ch": 24
+				}
+			},
+			"type": "boolean",
+			"name": "DebugMenu",
+			"group": "VALUE STORE"
+		}
+	]
+}
